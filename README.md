@@ -1,0 +1,1 @@
+# Eine Bibel-API mit allem was man braucht, ohne das, was man nicht braucht.
