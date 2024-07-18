@@ -1,2 +1,2 @@
 # bible-api
-API for api.bible and OpenBibleProject
+API proxy / caching server for api.bible and OpenBibleProject

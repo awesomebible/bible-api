@@ -1,0 +1,1 @@
+// fetch and handle bible from bible.api
